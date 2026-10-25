@@ -1,0 +1,4 @@
+Demonstration Widget — authored example, not a real third-party package.
+Copyright (c) 2026 KanadeK
+This example is distributed under the repository's MIT license.
+In a real inventory, copy the full applicable upstream license and notices here.

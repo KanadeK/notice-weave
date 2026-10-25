@@ -1,0 +1,5 @@
+include LICENSE README.md CHANGELOG.md CONTRIBUTING.md SECURITY.md DESIGN.md THIRD_PARTY.md
+recursive-include examples *
+recursive-include tests *.py
+exclude examples/notices.lock.json
+exclude examples/THIRD_PARTY_NOTICES.txt

@@ -1,0 +1,10 @@
+version = 1
+inventory_roots = ["vendor"]
+
+[[components]]
+id = "demo-widget"
+name = "Demonstration Widget"
+version = "1.0.0"
+source = "https://example.invalid/demo-widget"
+artifacts = ["vendor/widget.js"]
+notices = ["DEMO-NOTICE.txt"]
